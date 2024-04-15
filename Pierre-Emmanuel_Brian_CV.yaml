@@ -1,0 +1,189 @@
+cv:
+  name: Pierre-Emmanuel Brian
+  location: Toulouse, France
+  email: pebrian.pro@outlook.fr
+  phone: tel:(+33)6.24.62.10.05
+  social_networks:
+    - network: LinkedIn
+      username: pebrian
+    - network: GitHub
+      username: pe-brian
+  sections:
+    summary:
+      - "I am a data-engineer/backend developper passionate about process automation and creating innovative digital solutions. I obtained a professional designer developer title from Afpa in 2018, and I have since worked on several
+        major digital projects in the aeronautics sector. My key skills are **Apache Airflow**, **Apache Spark**, **Palantir
+        Foundry**, **Django**, **Django REST Framework**, **Flask** & **Python**."
+    education:
+      - institution: "Université de technologie de Troyes"
+        location: Troyes, France
+        area: "Informatique & systèmes d'information"
+        degree: "Bac+5"
+        start_date: 2023-09
+        end_date: 2024-09
+        highlights: 
+          - "Validation des acquis et de l'expérience (VAE)"
+      - institution: "Udemy (Remote)"
+        area: "The complete SQL Bootcamp: Go From Zero To Hero"
+        degree: ""
+        date: 2024-03
+        highlights: 
+          - "PostgreSQL"
+      - institution: "Udemy (Remote)"
+        area: "Apache Airflow: The Hands-On guide"
+        degree: ""
+        date: 2024-03
+        highlights: 
+          - "Python, Airflow, Docker"
+      - institution: "ENI"
+        area: "Développer un site web dynamique avec Python & Django"
+        location: Toulouse, France
+        degree: ""
+        date: 2022-09
+        highlights: 
+          - "Python, Django, SQL"
+      - institution: "AFPA"
+        area: "Titre pro. de Concepteur développeur informatique"
+        location: "Balma, France"
+        degree: "Bac+3/4"
+        start_date: 2017-03
+        end_date: 2018-01
+        highlights: 
+          - "Java/JEE, Spring, SQL"
+      - institution: "Lycée Bagatelle"
+        location: Saint-Gaudens, France
+        area: "Baccalauréat Scientifique"
+        degree: "Bac+0"
+        end_date: 2006-01
+        highlights: 
+          - "Physique/Chimie"
+    experience:
+      - company: "CGV medical"
+        position: "Software Engineer, Consulting, Freelance"
+        location: "Remote, Toulouse, France"
+        start_date: 2024-01
+        end_date: 2024-04
+        highlights:
+          - "Faisability study of a tool for automate the process of fullfilling an online app form"
+          - "Design & development of the application"
+          - "Deployment/Maintenance of the application"
+          - "Python, Web scrapping, Playwright, Robotic process automation (RPA), HTML, CSS, Javascript"
+      - company: "Alten Sud-Ouest"
+        position: "Data Engineer, Consulting, Freelance"
+        location: "On site, Toulouse, France"
+        start_date: 2022-07
+        end_date: 2023-12
+        highlights:
+          - "Product management & business partnership (Airbus)"
+          - "Data engineering on a major project : SkywiseToolDesignOfficeSolutions (Airbus) with ~250 final users"
+          - "Database/ETL reworking, data analysis & reporting"
+          - "RGPD compliance (Airbus)"
+          - "Budget forecasts (Airbus)"
+          - "Python, Apache Spark, ETL, Palantir Foundry, Skywise, AWS, Git, Google App Script"
+      - company: "Lupin Dental"
+        position: "Devops, Consulting, Freelance"
+        location: "Remote, Montpellier, France"
+        start_date: 2022-06
+        end_date: 2023-07
+        highlights:
+          - "Developement of a solution to transfer tickets for Jama to Gitlab"
+          - "Setup of the continuous integration & continuous development (CI/CD)"
+          - "Python, Jama, Gitlab, CI/CD, Test driven development (TDD), Docker"
+      - company: "Inetum"
+        position: "Software Engineer, Consulting, CDI"
+        location: "On site, Toulouse, France"
+        start_date: 2019-06
+        end_date: 2021-03
+        highlights:
+          - "Dev. of a mock server in Python to test an Angular Frontend (Airbus)"
+          - "Dev. of a functionnality to upload files on a microship system (Studelec)"
+          - "Dev. of micro-services with node.js & typescript for login & authentication (Sphera)"
+          - "Dev. of a python application for documents comparison (Spherea)"
+          - "Python, Django, Angular, Node.js, Express, micro-services, OAuth2"
+      - company: "Néosoft"
+        position: "Software Engineer, Consulting, CDI"
+        location: "On site, Toulouse, France"
+        start_date: 2018-02
+        end_date: 2019-06
+        highlights:
+          - "Dev. an application to handle electrical address plans (SCLE) with more than 15 final users"
+          - "Dev. of a new func. on the 'Apply' application (Toulouse Business School)"
+          - "Lead data dev. on the 'Olympe' platform (Safran) with a team of 3 developpers"
+          - "Python, Flask, FastAPI, Django, DRF, PostgreSQL, Angular, C#, .NET, Dynamics, HTML, CSS, Git"
+      - company: "Décasoft"
+        position: "On site, Software Engineer, Intern"
+        location: "Colomiers, France"
+        start_date: 2017-10
+        end_date: 2017-12
+        highlights:
+          - "Dev. of a solution to export critical data from a database to a new one (CCI Paris)"
+          - "Maintenance of the 'Ecoscope' scientific platform (FRB)"
+          - "Java/JEE, Spring boot, Spring batch, PostgreSQL, HTML, CSS, Javascript, ElasticSearch"
+    projects:
+      - name: "[Chocolatine](https://github.com/peb-8/chocolatine)"
+        date: 2024-03
+        highlights:
+          - Lighweight Python library to easily create SQL requests
+      - name: "[Pitchoune](https://github.com/peb-8/pitchoune)"
+        date: 2023-12
+        highlights:
+          - Minimalist Python library for data processing
+      - name: "[true-random](https://github.com/peb-8/true-random)"
+        date: 2022-04
+        highlights:
+          - A quantum alternative for standard Python random package
+    additional_experience_and_awards:
+      - label: Mentor (2018 - 2022)
+        details: Développeur d'application Python (OpenClassrooms)
+    technologies:
+      - label: Languages
+        details: C++, C#, Java, Lua, Python, SQL, JavaScript, typescript
+      - label: Software
+        details: Visual Studio Code, Git
+      - label: Frameworks
+        details: Django, FastAPI, Flask, Node.js, Express, Vue.js, Angular
+      - label: Data Sciences
+        details: Web scrapping, Numpy, Pandas, Foundry (Palantir), ETL, Spark, Airflow
+      - label: Cloud / Devops
+        details: AWS ECS, AWS EKS, Docker, Kubernetes, Scaleway, Databricks
+      - label: Databases
+        details: MySQL, PostgreSQL, MySQL, MongoDB, ElasticSearch
+      - label: Testing
+        details: Pytest, Playwright, Selenium
+      - label: Operating systems
+        details: Windows, Linux, MacOS
+      - label: Methods
+        details: Test driven development (TDD), Extreme programming (XP), Scrum
+design:
+  theme: classic
+  font_size: 10pt
+  page_size: letterpaper
+  color: '#004f90'
+  disable_page_numbering: false
+  page_numbering_style: NAME - Page PAGE_NUMBER of TOTAL_PAGES
+  show_last_updated_date: true
+  last_updated_date_style: Last updated in TODAY
+  header_font_size: 30 pt
+  text_alignment: justified
+  margins:
+    page:
+      top: 2 cm
+      bottom: 2 cm
+      left: 2 cm
+      right: 2 cm
+    section_title:
+      top: 0.3 cm
+      bottom: 0.2 cm
+    entry_area:
+      left_and_right: 0.2 cm
+      vertical_between: 0.2 cm
+      date_and_location_width: 4.1 cm
+    highlights_area:
+      top: 0.10 cm
+      left: 0.4 cm
+      vertical_between_bullet_points: 0.10 cm
+    header:
+      vertical_between_name_and_connections: 0.3 cm
+      bottom: 0.3 cm
+      horizontal_between_connections: 0.5 cm
+  show_timespan_in:
+    - Experience
